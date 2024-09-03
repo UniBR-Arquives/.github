@@ -1,6 +1,6 @@
 <div align="center">
   <hr>
-  <img src="/.github/profile/img/banner.jpg">
+  <img src="img/banner.jpg">
   <hr>
 </div>
 
